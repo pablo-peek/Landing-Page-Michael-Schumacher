@@ -207,8 +207,8 @@
 .special-card .card-title {
     text-align: center;
     margin: 0 auto;
-    font-size: 24px; /* Ajusta el tamaño de la fuente según sea necesario */
-    padding: 10px 0; /* Ajusta el padding según sea necesario */
+    font-size: 24px;
+    padding: 10px 0; 
 }
 
 .special-card .card-title {
